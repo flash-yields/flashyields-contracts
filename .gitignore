@@ -1,0 +1,25 @@
+.idea/
+.yarn/
+.vscode/
+.npm/
+.cache/
+
+node_modules/
+coverage/
+
+coverage.json
+
+typechain/
+typechain-types/
+
+# Hardhat files
+cache/
+artifacts/
+deployments/localhost
+generated/
+
+.env
+.env.archived
+
+# MacOS
+.DS_Store
